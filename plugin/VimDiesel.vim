@@ -1,3 +1,5 @@
+" ascii art borrowed from http://www.asciibabes.com/asciiguys/vin-diesel-01.php
+
 let s:VinDiesel = [
 \ "",
 \ "                                                                                                     . ..... :. ...::. :;:::;::;;;;sssssssss;sssssccsssssssssscc2csc;;sssscs2c22222222522c22552c556656252",
