@@ -175,7 +175,6 @@ let s:VinDiesel = [
 
 
 function Vinify()
-  let vin = ""
   for pieceOfVin in s:VinDiesel
     exe "normal o".pieceOfVin."\<Esc>"
   endfor
