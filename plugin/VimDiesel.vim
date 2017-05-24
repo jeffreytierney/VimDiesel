@@ -1,4 +1,4 @@
-" ascii art borrowed from http://www.asciibabes.com/asciiguys/vin-diesel-01.php
+" ascii art borrowed from [link deleted because it is no longer active'
 
 let s:VinDiesel = [
 \ "",
