@@ -1,4 +1,4 @@
-" ascii art borrowed from [link deleted because it is no longer active'
+" ascii art borrowed from [link deleted because it is no longer active]
 
 let s:VinDiesel = [
 \ "",
